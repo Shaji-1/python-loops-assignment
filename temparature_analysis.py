@@ -1,6 +1,6 @@
-Name: MOHAMED SHAJITH J
-Roll Number: 2602040
-Assignment: Python Loops & Automation - Subjective Question
+# Name: MOHAMED SHAJITH J
+# Roll Number: 2602040
+# Assignment: Python Loops & Automation - Subjective Question
 
 print("===== Task 1: Find Maximum and Minimum =====")
 
